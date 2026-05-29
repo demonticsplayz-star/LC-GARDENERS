@@ -79,21 +79,6 @@ export const REVIEWS = [
     text: "Always happy with their results. Fast, clean work and on time. Hard to find a crew this dependable.",
     real: true,
   },
-  {
-    name: "Megan R.",
-    text: "Our yard has never looked better. Ervin and his team are professional, friendly, and quick.",
-    real: false,
-  },
-  {
-    name: "Robert H.",
-    text: "Genuinely the easiest landscaping company we've ever worked with. Honest, hardworking, and on schedule.",
-    real: false,
-  },
-  {
-    name: "Linda K.",
-    text: "Beautiful detail work on our beds and hedges. They treat the property like it's their own.",
-    real: false,
-  },
 ];
 
 export const WHY_CHOOSE = [
