@@ -1,0 +1,125 @@
+{
+  "theme": "light",
+  "archetype": "Organic & Earthy / Luxury Hybrid",
+  "colors": {
+    "primary": "#1E3A2A",
+    "secondary": "#C8A44D",
+    "accent": "#F8F6F2",
+    "dark": "#202020",
+    "background": "#FFFFFF",
+    "text": "#202020",
+    "text_light": "#F8F6F2"
+  },
+  "typography": {
+    "headings": "Playfair Display",
+    "body": "Manrope",
+    "heading_weight": "600",
+    "body_weight": "400"
+  },
+  "layout": {
+    "spacing": "generous",
+    "container_max_width": "max-w-7xl",
+    "padding": "py-20 md:py-32"
+  },
+  "components": {
+    "buttons": "rounded-none or minimal rounding (rounded-sm), luxury feel. Primary CTA should be Rich Gold (#C8A44D) with dark text or Dark Green (#1E3A2A) with gold text.",
+    "cards": "Minimal border, shadow-sm, or flat on #F8F6F2 background. No heavy rounded corners (use rounded-sm).",
+    "hero": "Full height (min-h-[80vh]), background image with bg-black/40 overlay, large elegant typography.",
+    "floating_button": "Fixed bottom right, green or gold, prominent phone icon, z-50."
+  },
+  "sections": [
+    {
+      "name": "Hero",
+      "style": "Image background, text aligned left or center, Trust bar at bottom"
+    },
+    {
+      "name": "Social Proof",
+      "style": "Clean bar with logos/icons and stats"
+    },
+    {
+      "name": "Services",
+      "style": "Bento grid or 3-column luxury cards with images and titles"
+    },
+    {
+      "name": "Why Choose Us",
+      "style": "Icon-led list or grid, perhaps dark green background (#1E3A2A) with white/gold text"
+    },
+    {
+      "name": "Before & After",
+      "style": "Side by side image grid or masonry"
+    },
+    {
+      "name": "Meet The Owner",
+      "style": "Split layout, image on one side, text on the other, personal and warm"
+    },
+    {
+      "name": "Reviews",
+      "style": "Testimonial cards with 5 gold stars"
+    },
+    {
+      "name": "Footer",
+      "style": "Dark background (#202020), gold accents, clear contact info"
+    }
+  ],
+  "image_urls": [
+    {
+      "url": "https://static.prod-images.emergentagent.com/jobs/032a391c-3f00-401b-bc51-1f5f841b6b72/images/94b5a4b8ed4ea9f47a426c3090ece167533b31d51d80e89b8a3c41cf359b806f.png",
+      "category": "hero",
+      "description": "Luxury manicured backyard at golden hour"
+    },
+    {
+      "url": "https://static.prod-images.emergentagent.com/jobs/032a391c-3f00-401b-bc51-1f5f841b6b72/images/4f58ce3c832f4f7a8b2c49f6958ac4bf76f6bf14d09819486735af7393aee261.png",
+      "category": "owner_ervin",
+      "description": "Portrait of Ervin, the friendly owner"
+    },
+    {
+      "url": "https://static.prod-images.emergentagent.com/jobs/032a391c-3f00-401b-bc51-1f5f841b6b72/images/29ade603df04774ddddbde27e2730f918f639ab12712592760b0d1dd35f3ec40.png",
+      "category": "service_lawn",
+      "description": "Lawn Maintenance"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1634081727680-fa43e3237d5a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzNTl8MHwxfHNlYXJjaHwyfHx5YXJkJTIwY2xlYW51cCUyMGxlYXZlc3xlbnwwfHx8fDE3ODAwOTcyNTR8MA&ixlib=rb-4.1.0&q=85",
+      "category": "service_cleanup",
+      "description": "Yard Cleanups"
+    },
+    {
+      "url": "https://static.prod-images.emergentagent.com/jobs/032a391c-3f00-401b-bc51-1f5f841b6b72/images/656f5e5e810e9a87170ddbfb7b4cc024d165a2b11be72bd4439c011927fa56b0.png",
+      "category": "service_hedge",
+      "description": "Hedge & Shrub Trimming"
+    },
+    {
+      "url": "https://static.prod-images.emergentagent.com/jobs/032a391c-3f00-401b-bc51-1f5f841b6b72/images/178299774a7dad20ffcccb5abc366a094648efeed93a0cffda32e3b049638acb.png",
+      "category": "service_mulch",
+      "description": "Mulch Installation"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1595672049786-43da1581214c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NjV8MHwxfHNlYXJjaHwyfHxiZWF1dGlmdWwlMjBnYXJkZW4lMjBmbG93ZXJzfGVufDB8fHx8MTc4MDA5NzI1NHww&ixlib=rb-4.1.0&q=85",
+      "category": "service_garden",
+      "description": "Garden Maintenance"
+    },
+    {
+      "url": "https://static.prod-images.emergentagent.com/jobs/032a391c-3f00-401b-bc51-1f5f841b6b72/images/edee6a16f00835b2aa29cfe4fc9ff6a09966b96164ddc34ab0f8889435f0d7d1.png",
+      "category": "service_property",
+      "description": "Property Beautification"
+    },
+    {
+      "url": "https://static.prod-images.emergentagent.com/jobs/032a391c-3f00-401b-bc51-1f5f841b6b72/images/ce0db68e7c8bcdff00fda5e201d6474af436a967a7c80fc5617034a7516f9d50.png",
+      "category": "before_after_1",
+      "description": "Before & After example 1"
+    },
+    {
+      "url": "https://static.prod-images.emergentagent.com/jobs/032a391c-3f00-401b-bc51-1f5f841b6b72/images/88828d5849e73fb4c849059e75bb6312e74eee442db76af6440d7ef6b8959389.png",
+      "category": "before_after_2",
+      "description": "Before & After example 2"
+    }
+  ],
+  "instructions_to_main_agent": [
+    "Use Playfair Display for all major headings and Manrope for body text. Make sure to import them via Google Fonts.",
+    "The primary Call To Action is phone. Use '(360) 513-4172' prominently. A floating Call Now button (visible on mobile) is required.",
+    "Section styling: Keep it 'Luxury + Trust'. Generous whitespace, no cluttered UI. Use the Dark Green (#1E3A2A) for a premium dark section (e.g., Why Choose Us or Footer), and Gold (#C8A44D) for accents/buttons.",
+    "Do NOT use default shadcn card borders unless they are extremely subtle (e.g., border-border/40). Better to use soft background colors (#F8F6F2) for contrast against white.",
+    "Ensure the hero has a dark gradient overlay so the headline 'Your Property Deserves Better Landscaping' is highly readable.",
+    "Services should be presented with high-quality imagery (use the provided URLs).",
+    "Add 'data-testid' to all buttons and interactive elements for testing."
+  ]
+}
