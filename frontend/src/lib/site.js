@@ -71,12 +71,32 @@ export const REVIEWS = [
   },
   {
     name: "Jennifer Petersen",
-    text: "I can always count on him to show up right on schedule. Reliable, every single time.",
+    text: "Ervin has worked for me for a few years now. He and his crew always do a good job for me. I can always count on him to show up right on schedule. I can highly recommend LC Gardiners for any of your yard needs.",
     real: true,
   },
   {
     name: "Scott Tiniakos",
-    text: "Always happy with their results. Fast, clean work and on time. Hard to find a crew this dependable.",
+    text: "Always happy with their results. Fast, clean work and on time.",
+    real: true,
+  },
+  {
+    name: "Andrea A",
+    text: "I have used them every year when I need some services done. They are very nice people!",
+    real: true,
+  },
+  {
+    name: "Hoa Ngo",
+    text: "Good job! Always good and fast service.",
+    real: true,
+  },
+  {
+    name: "Infinity",
+    text: "Left pretty satisfied, good work.",
+    real: true,
+  },
+  {
+    name: "Demontics",
+    text: "Very good and professional work!",
     real: true,
   },
 ];
